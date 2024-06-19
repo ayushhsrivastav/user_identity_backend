@@ -31,7 +31,9 @@ This project is a backend service for identity reconciliation, built with Koa an
 
 2. Install dependencies:
 
+   ```sh
    npm install
+   ```
 
 ## Configuration
 
