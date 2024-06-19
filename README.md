@@ -24,8 +24,10 @@ This project is a backend service for identity reconciliation, built with Koa an
 
 1. Clone the repository:
 
+   ```sh
    git clone https://github.com/ayushhsrivastav/user-identity-backend.git
    cd user-identity-backend
+   ```
 
 2. Install dependencies:
 
@@ -105,7 +107,7 @@ The service is deployed at [https://user-identity-backend.onrender.com](https://
 
 ## Project Structure
 
-    identity-reconciliation/
+    user-identity/
     │
     ├── config/
     │   └── config.json
